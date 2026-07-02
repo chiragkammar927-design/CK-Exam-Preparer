@@ -1,0 +1,6 @@
+{
+  "name": "CK exam preparer",
+  "description": "An AI-powered professional exam preparation companion to create custom study roadmaps, summarize learning material, generate flashcards, and run interactive mock quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
